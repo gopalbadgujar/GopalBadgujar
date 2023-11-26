@@ -11,7 +11,7 @@ About MySelf
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjanupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="gunjanupadhyay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjanupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="gopalbadgujar" /> </p>
 
 - 🔭 Currently, I'm a full-stack web developer, and I'm excited about creating dynamic and responsive web applications **.**
 
