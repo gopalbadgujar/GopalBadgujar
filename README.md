@@ -1,7 +1,7 @@
 # Gopal_Badgujar
 About MySelf
 
-[![MasterHead](https://user-images.githubusercontent.com/87605149/250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/87605149/250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2.gif)] (https://github.com/gopalbadgujar/)
 
 
 
