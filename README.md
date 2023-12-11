@@ -13,7 +13,7 @@ About MySelf
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjanupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="gopalbadgujar" /> </p>
 
-- 🔭 Currently, I'm a full-stack web developer, and I'm excited about creating dynamic and responsive web applications **.**
+- 🔭 Currently, I'm a <b>full-stack web developer</b>, and I'm excited about creating dynamic and responsive web applications **.**
 
 - 💻 I have a strong foundation on **Web Development**
 
